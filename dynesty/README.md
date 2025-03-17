@@ -10,3 +10,8 @@ conda deactivate
 ```
 python Ahmad.py
 ```
+# requirements
+
+```
+pip install numpy scipy matplotlib
+```
