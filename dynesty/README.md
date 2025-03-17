@@ -27,3 +27,4 @@ jupyter notebook
 ```
 # Documentation
 https://dynesty.readthedocs.io/en/stable/
+# GitHub repository
