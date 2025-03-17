@@ -12,6 +12,10 @@ python Ahmad.py
 ```
 
 # requirements
+```
+pip install notebook
+jupyter notebook
+```
 # Documentation
 https://jaxns.readthedocs.io/en/latest/#
 # GitHub repository
