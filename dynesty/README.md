@@ -15,3 +15,6 @@ python Ahmad.py
 ```
 pip install numpy scipy matplotlib
 ```
+```
+pip install pytest
+```
