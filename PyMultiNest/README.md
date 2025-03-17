@@ -17,7 +17,7 @@ pip install notebook
 jupyter notebook
 ```
 # Documentation
-https://johannesbuchner.github.io/PyMultiNest/index.html#citing-pymultinest
+https://johannesbuchner.github.io/PyMultiNest/index.html#
 # GitHub repository
 [https://github.com/Joshuaalbert/jaxns](https://github.com/JohannesBuchner/PyMultiNest)
 
