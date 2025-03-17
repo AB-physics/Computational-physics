@@ -23,5 +23,6 @@ pip install pytest-xdist
 ```
 ‍‍‍‍```
 pip install notebook
+
 jupyter notebook
 ```
