@@ -12,10 +12,7 @@ python Ahmad.py
 ```
 
 # requirements
-```
-pip install notebook
-jupyter notebook
-```
+
 # Documentation
 https://johannesbuchner.github.io/PyMultiNest/index.html#
 # GitHub repository
