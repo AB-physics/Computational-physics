@@ -28,3 +28,4 @@ jupyter notebook
 # Documentation
 https://dynesty.readthedocs.io/en/stable/
 # GitHub repository
+https://github.com/joshspeagle/dynesty?tab=readme-ov-file
