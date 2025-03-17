@@ -3,8 +3,14 @@
 conda create -n jaxns python=3.12
 conda activate jaxns
 pip install jaxns
-
 ```
+```
+conda deactivate
+```
+```
+python Ahmad.py
+```
+
 # requirements
 # Documentation
 # GitHub repository
