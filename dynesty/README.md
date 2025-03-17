@@ -21,6 +21,6 @@ pip install pytest
 ```
 pip install pytest-xdist
 ```
-‍‍‍‍```
+```
 pip install notebook
 ```
