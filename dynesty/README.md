@@ -7,3 +7,6 @@ pip install dynesty
 ```
 conda deactivate
 ```
+```
+python Ahmad.py
+```
