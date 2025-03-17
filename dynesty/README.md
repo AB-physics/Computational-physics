@@ -18,3 +18,6 @@ pip install numpy scipy matplotlib
 ```
 pip install pytest
 ```
+```
+pip install pytest-xdist
+```
