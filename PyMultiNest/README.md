@@ -27,6 +27,12 @@ make
 ```
 export LD_LIBRARY_PATH=~/Downloads/Computational\ physics/PyMultiNest/MultiNest/lib:$LD_LIBRARY_PATH
 ```
+
+
+
+```
+pip install pytest
+```
 # Documentation
 https://johannesbuchner.github.io/PyMultiNest/index.html#
 # GitHub repository
