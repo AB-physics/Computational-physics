@@ -25,7 +25,8 @@ cmake ..
 make
 ```
 ```
-export LD_LIBRARY_PATH=~/Downloads/Computational\ physics/PyMultiNest/MultiNest/lib:$LD_LIBRARY_PATH
+echo 'export LD_LIBRARY_PATH=~/Downloads/Computational\ physics/PyMultiNest/MultiNest/lib:$LD_LIBRARY_PATH' >> ~/.bashrc && source ~/.bashrc
+
 ```
 ```
 cd ~/Downloads/Computational\ physics/PyMultiNest
