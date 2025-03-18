@@ -50,7 +50,7 @@ sudo apt install python3-socks
 pip install pytest
 ```
 ```
-conda install numpy
+conda install numpy matplotlib scipy
 ```
 # Documentation
 https://johannesbuchner.github.io/PyMultiNest/index.html#
