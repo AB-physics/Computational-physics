@@ -12,6 +12,10 @@ python Ahmad.py
 ```
 
 # requirements
+```
+sudo apt update
+sudo apt install gfortran libblas-dev liblapack-dev
+```
 
 # Documentation
 https://johannesbuchner.github.io/PyMultiNest/index.html#
