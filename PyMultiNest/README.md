@@ -46,11 +46,11 @@ sudo make install
 sudo apt update
 sudo apt install python3-socks
 ```
-
-
-
 ```
 pip install pytest
+```
+```
+conda install numpy
 ```
 # Documentation
 https://johannesbuchner.github.io/PyMultiNest/index.html#
