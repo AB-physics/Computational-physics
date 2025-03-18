@@ -15,6 +15,10 @@ conda install pysocks
 ```
 conda install numpy
 ```
+```
+sudo apt update
+sudo apt install build-essential
+```
 # Documentation
 
 # GitHub repository
