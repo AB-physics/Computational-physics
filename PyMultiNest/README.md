@@ -30,6 +30,7 @@ export LD_LIBRARY_PATH=~/Downloads/Computational\ physics/PyMultiNest/MultiNest/
 ```
 cd ~/Downloads/Computational\ physics/PyMultiNest
 git clone https://github.com/JohannesBuchner/cuba.git
+cd cuba
 ```
 
 
