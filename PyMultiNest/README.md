@@ -33,6 +33,7 @@ git clone https://github.com/JohannesBuchner/cuba.git
 cd cuba
 ./configure
 ./makesharedlib.sh
+sudo make install
 ```
 
 
