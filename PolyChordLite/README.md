@@ -6,7 +6,9 @@ conda activate PolyChordLite
 
 
 # requirements
-
+```
+conda install pysocks
+```
 # Documentation
 
 # GitHub repository
