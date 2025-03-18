@@ -32,7 +32,7 @@ cd ~/Downloads/Computational\ physics/PyMultiNest
 git clone https://github.com/JohannesBuchner/cuba.git
 cd cuba
 ./configure
-make
+./makesharedlib.sh
 ```
 
 
