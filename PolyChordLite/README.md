@@ -12,6 +12,9 @@ cd PolyChordLite
 ```
 conda install pysocks
 ```
+```
+conda install numpy
+```
 # Documentation
 
 # GitHub repository
