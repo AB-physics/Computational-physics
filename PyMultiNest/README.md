@@ -27,6 +27,10 @@ make
 ```
 export LD_LIBRARY_PATH=~/Downloads/Computational\ physics/PyMultiNest/MultiNest/lib:$LD_LIBRARY_PATH
 ```
+```
+cd ~/Downloads/Computational\ physics/PyMultiNest
+git clone https://github.com/JohannesBuchner/cuba.git
+```
 
 
 
