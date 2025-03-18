@@ -18,6 +18,7 @@ sudo apt install gfortran libblas-dev liblapack-dev
 ```
 ```
 cd ~/Downloads/Computational\ physics/PyMultiNest
+git clone https://github.com/JohannesBuchner/MultiNest.git ~/Downloads/Computational\ physics/PyMultiNest/MultiNest
 ```
 # Documentation
 https://johannesbuchner.github.io/PyMultiNest/index.html#
