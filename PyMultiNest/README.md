@@ -16,7 +16,7 @@ python Ahmad.py
 sudo apt update
 sudo apt install gfortran libblas-dev liblapack-dev
 ```
-‍‍‍‍‍```
+```
 cd ~/Downloads/Computational\ physics/PyMultiNest
 ```
 # Documentation
