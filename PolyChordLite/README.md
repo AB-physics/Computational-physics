@@ -1,4 +1,9 @@
 # Installing and Running PolyChordLite
+```
+conda create -n PolyChordLite python=3.12
+conda activate PolyChordLite
+```
+
 
 # requirements
 
