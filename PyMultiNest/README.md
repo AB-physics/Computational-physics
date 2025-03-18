@@ -23,7 +23,9 @@ cd ~/Downloads/Computational\ physics/PyMultiNest/MultiNest
 cd build
 cmake ..
 make
-
+```
+```
+export LD_LIBRARY_PATH=~/Downloads/Computational\ physics/PyMultiNest/MultiNest/lib:$LD_LIBRARY_PATH
 ```
 # Documentation
 https://johannesbuchner.github.io/PyMultiNest/index.html#
