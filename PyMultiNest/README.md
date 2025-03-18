@@ -1,4 +1,4 @@
-# Installing and Running jaxns
+# Installing and Running PyMultiNest
 ```
 conda create -n pymultinest python=3.12
 conda activate pymultinest
