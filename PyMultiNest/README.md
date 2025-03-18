@@ -33,8 +33,10 @@ git clone https://github.com/JohannesBuchner/cuba.git
 cd cuba
 ./configure
 ./makesharedlib.sh
+```
 echo 'export LD_LIBRARY_PATH=$HOME/Downloads/Computational\ physics/PyMultiNest/cuba:$LD_LIBRARY_PATH' >> ~/.bashrc
 source ~/.bashrc
+```
 sudo make install
 ```
 ```
