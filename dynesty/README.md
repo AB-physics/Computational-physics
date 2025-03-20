@@ -29,3 +29,5 @@ jupyter notebook
 https://dynesty.readthedocs.io/en/stable/
 # GitHub repository
 [https://github.com/joshspeagle/dynesty?tab=readme-ov-file](https://github.com/joshspeagle/dynesty)
+#
+https://arxiv.org/abs/1904.02180
