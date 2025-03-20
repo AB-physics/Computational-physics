@@ -1,4 +1,5 @@
 # Advanced Computational Physics Methods 🔬
+### 📚 Course: Advanced Methods in Computational Physics
 This repository contains:
 ##### ✅ Implementations of Nested Sampling methods, including:
 
