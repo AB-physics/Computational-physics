@@ -25,8 +25,7 @@ cmake ..
 make
 ```
 ```
-echo 'export LD_LIBRARY_PATH=~/Downloads/Computational\ physics/PyMultiNest/MultiNest/lib:$LD_LIBRARY_PATH' >> ~/.bashrc && source ~/.bashrc
-
+echo "export LD_LIBRARY_PATH=/home/ahmad/Downloads/Computational_physics/PyMultiNest/MultiNest/lib:\$LD_LIBRARY_PATH" >> ~/.bashrc && source ~/.bashrc
 ```
 ```
 cd ~/Downloads/Computational\ physics/PyMultiNest
@@ -36,7 +35,7 @@ cd cuba
 ./makesharedlib.sh
 ```
 ```
-echo 'export LD_LIBRARY_PATH=$HOME/Downloads/Computational\ physics/PyMultiNest/cuba:$LD_LIBRARY_PATH' >> ~/.bashrc
+echo 'export LD_LIBRARY_PATH=$HOME/Downloads/Computationalـphysics/PyMultiNest/cuba:$LD_LIBRARY_PATH' >> ~/.bashrc
 source ~/.bashrc
 ```
 ```
