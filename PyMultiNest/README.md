@@ -17,25 +17,25 @@ sudo apt update
 sudo apt install gfortran libblas-dev liblapack-dev
 ```
 ```
-cd ~/Downloads/Computational\ physics/PyMultiNest
-git clone https://github.com/JohannesBuchner/MultiNest.git ~/Downloads/Computational\ physics/PyMultiNest/MultiNest
-cd ~/Downloads/Computational\ physics/PyMultiNest/MultiNest
+cd ~/Downloads/Computational_physics/PyMultiNest
+git clone https://github.com/JohannesBuchner/MultiNest.git ~/Downloads/Computational_physics/PyMultiNest/MultiNest
+cd ~/Downloads/Computational_physics/PyMultiNest/MultiNest
 cd build
 cmake ..
 make
 ```
 ```
-echo "export LD_LIBRARY_PATH=/home/ahmad/Downloads/Computational\ physics/PyMultiNest/MultiNest/lib:\$LD_LIBRARY_PATH" >> ~/.bashrc && source ~/.bashrc
+echo "export LD_LIBRARY_PATH=/home/ahmad/Downloads/Computational_physics/PyMultiNest/MultiNest/lib:\$LD_LIBRARY_PATH" >> ~/.bashrc && source ~/.bashrc
 ```
 ```
-cd ~/Downloads/Computational\ physics/PyMultiNest
+cd ~/Downloads/Computational_physics/PyMultiNest
 git clone https://github.com/JohannesBuchner/cuba.git
 cd cuba
 ./configure
 ./makesharedlib.sh
 ```
 ```
-echo 'export LD_LIBRARY_PATH=$HOME/Downloads/Computational\ physics/PyMultiNest/cuba:$LD_LIBRARY_PATH' >> ~/.bashrc
+echo 'export LD_LIBRARY_PATH=$HOME/Downloads/Computational_physics/PyMultiNest/cuba:$LD_LIBRARY_PATH' >> ~/.bashrc
 source ~/.bashrc
 ```
 ```
