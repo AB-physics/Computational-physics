@@ -55,4 +55,6 @@ conda install numpy matplotlib scipy
 https://johannesbuchner.github.io/PyMultiNest/index.html#
 # GitHub repository
 [https://github.com/Joshuaalbert/jaxns](https://github.com/JohannesBuchner/PyMultiNest)
-
+# papers
+1-https://arxiv.org/abs/0809.3437
+2-https://arxiv.org/abs/1306.2144
