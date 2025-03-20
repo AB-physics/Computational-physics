@@ -21,3 +21,4 @@ https://jaxns.readthedocs.io/en/latest/#
 # GitHub repository
 https://github.com/Joshuaalbert/jaxns
 # papers
+1- https://arxiv.org/abs/2012.15286
