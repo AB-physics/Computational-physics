@@ -20,6 +20,9 @@ conda install numpy
 sudo apt update
 sudo apt install build-essential
 ```
+```
+pip install anesthetic
+```
 # Documentation
 
 # GitHub repository
