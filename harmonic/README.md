@@ -13,6 +13,7 @@ python Ahmad.py
 
 # requirements
 ```
+pip install pytest
 ```
 # Documentation
 https://astro-informatics.github.io/harmonic/
