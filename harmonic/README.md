@@ -15,6 +15,7 @@ python Ahmad.py
 ```
 pip install pytest
 pip install sbi
+pip install jax jaxlib emcee matplotlib corner
 ```
 # Documentation
 https://astro-informatics.github.io/harmonic/
