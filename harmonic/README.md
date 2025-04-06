@@ -14,6 +14,7 @@ python Ahmad.py
 # requirements
 ```
 pip install pytest
+pip install sbi
 ```
 # Documentation
 https://astro-informatics.github.io/harmonic/
