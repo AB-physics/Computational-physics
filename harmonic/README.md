@@ -19,6 +19,8 @@ pip install jax jaxlib emcee matplotlib corner
 ```
 # Documentation
 https://astro-informatics.github.io/harmonic/
+
+https://sbi-dev.github.io/sbi/latest/
 # GitHub repository
 https://github.com/astro-informatics/harmonic
 
