@@ -61,4 +61,4 @@ make main=main.c
 ```
 ./main input.par
 ```
-The MyModel/ directory will be automatically created with all sample files.
+The ```MyModel/``` directory will be automatically created with all sample files.
