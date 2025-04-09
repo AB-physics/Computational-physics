@@ -79,3 +79,14 @@ make clean
 run inside the model directory
 
 # requirements
+Versions used on my system:
+
+gcc: 7.5.0
+
+make: 4.3
+
+gfortran: 10.5.0
+
+libx11-dev: 2:1.7.5-1ubuntu0.3
+
+OS: Ubuntu 22.04 LTS
