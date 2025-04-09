@@ -33,3 +33,15 @@ make main=main.c
 ```
 
 or ```./main data1.par``` or ```./main mssm1.par```
+
+#### Predefined models include:
+
+MSSM / NMSSM
+
+IDM, Z3IDM, Z4IDSM, Z5M, Z7M
+
+Z′Portal, SingletDM
+
+LLL_scalar, STFM, RDM
+
+LHM, RHNM, UMSSM, CPVMSSM
