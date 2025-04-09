@@ -7,4 +7,6 @@ Download the latest version from:
 🔗 [https://zenodo.org/records/14978911](https://zenodo.org/records/14978911)
 
 Go to the downloadmlocation and extract the compressed file with the following command:
-``` tar -zxvf micromegas_6.2.3.tgz ```
+``` 
+tar -zxvf micromegas_6.2.3.tgz
+```
