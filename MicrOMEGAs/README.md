@@ -10,11 +10,11 @@ Go to the download location and extract the compressed file using the command:
 ``` 
 tar -zxvf micromegas_6.2.3.tgz
 ```
-Then go into the extracted folder:
+Then move into the extracted folder:
 ```
 cd micromegas_6.2.3
 ```
-General compilation command (required for all models):
+Run the general compilation command (required for all models):
 ```
 make
 ```
