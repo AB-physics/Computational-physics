@@ -10,3 +10,7 @@ Go to the download location and extract the compressed file with the following c
 ``` 
 tar -zxvf micromegas_6.2.3.tgz
 ```
+Then go into the extracted folder:
+```
+cd micromegas_6.2.3
+```
