@@ -18,3 +18,9 @@ Run the general compilation command (required for all models):
 ```
 make
 ```
+MicrOMEGAs 6 comes with several predefined models. To compile and run any model:
+‍‍‍```
+cd MSSM    # or any other model
+make main=main.c
+./main input.slha      # or ./main data1.par or ./main mssm1.par
+```
