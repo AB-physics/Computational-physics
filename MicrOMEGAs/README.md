@@ -77,3 +77,5 @@ from the root directory
 make clean
 ```
 run inside the model directory
+
+# requirements
