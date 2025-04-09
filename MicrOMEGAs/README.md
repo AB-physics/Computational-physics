@@ -32,4 +32,4 @@ make main=main.c
 ./main input.slha
 ```
 
-or ./main data1.par or ./main mssm1.par
+or ```./main data1.par``` or ```./main mssm1.par```
