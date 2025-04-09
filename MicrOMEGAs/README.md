@@ -62,3 +62,16 @@ make main=main.c
 ./main input.par
 ```
 The ```MyModel/``` directory will be automatically created with all sample files.
+
+### Optional cleanup:
+
+#### To clean everything:
+```
+./clean
+```
+from the root directory
+#### To clean files inside a specific model:
+```
+make clean
+```
+# run inside the model directory
