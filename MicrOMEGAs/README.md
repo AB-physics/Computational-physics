@@ -5,3 +5,6 @@ This repo includes instructions to install and run **MicrOMEGAs**, one of the mo
 Download the latest version from:
 
 🔗 [https://zenodo.org/records/14978911](https://zenodo.org/records/14978911)
+
+Go to the downloadmlocation and extract the compressed file with the following command:
+``` tar -zxvf micromegas_6.2.3.tgz ```
