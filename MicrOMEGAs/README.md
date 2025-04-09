@@ -19,7 +19,7 @@ cd micromegas_6.2.3
 make
 ```
 #### MicrOMEGAs 6 comes with several predefined models. To compile and run any model:
-‍‍‍```
+‍‍‍``` 
 cd MSSM
 ```
 or any other model
