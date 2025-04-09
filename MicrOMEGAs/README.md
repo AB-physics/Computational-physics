@@ -45,3 +45,19 @@ Z′Portal, SingletDM
 LLL_scalar, STFM, RDM
 
 LHM, RHNM, UMSSM, CPVMSSM
+
+#### To create your own (custom) model:
+
+```
+./newProject MyModel
+```
+run in the root directory
+```
+cd MyModel
+```
+```
+make main=main.c
+```
+```
+./main input.par
+```
