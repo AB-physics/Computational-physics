@@ -25,9 +25,9 @@ cd MSSM
 
 or any other model
 
-
+```
 make main=main.c
-
+```
 
 
 ./main input.slha
