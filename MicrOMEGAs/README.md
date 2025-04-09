@@ -14,3 +14,6 @@ Then go into the extracted folder:
 ```
 cd micromegas_6.2.3
 ```
+General compilation command (required for all models):
+``` make     # or: gmake
+```
