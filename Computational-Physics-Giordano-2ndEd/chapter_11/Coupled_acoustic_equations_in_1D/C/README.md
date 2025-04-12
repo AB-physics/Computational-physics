@@ -1,1 +1,1 @@
-
+This code was originally written by N. Giordano in July 2006 to solve coupled acoustic equations in 1D, and I, Ahmad Biglar, edited it on April 12, 2025, to fix compilation errors and improve readability.
