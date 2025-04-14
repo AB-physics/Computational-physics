@@ -99,6 +99,6 @@ libx11-dev: 2:1.7.5-1ubuntu0.3
 
 OS: Ubuntu 22.04 LTS
 
-‍‍‍‍```
+```
 pip install smodels
 ```
