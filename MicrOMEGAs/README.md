@@ -102,7 +102,6 @@ OS: Ubuntu 22.04 LTS
 ```
 pip install smodels
 ```
-‍‍‍```
+```
 pip install torch
-
 ```
