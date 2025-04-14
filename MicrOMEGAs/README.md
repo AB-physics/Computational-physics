@@ -7,7 +7,9 @@ Download the latest version from:
 🔗 [https://zenodo.org/records/14978911](https://zenodo.org/records/14978911)
 
 ## Installing and Running
-``` conda create -n micromegas python=3.12
+```
+conda create -n micromegas python=3.12
+
 conda activate micromegas
 ```
 
