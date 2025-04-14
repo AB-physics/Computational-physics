@@ -12,6 +12,9 @@ conda create -n micromegas python=3.12
 
 conda activate micromegas
 ```
+```
+conda deactivate
+```
 
 #### Go to the download location and extract the compressed file using the command:
 ``` 
