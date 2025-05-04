@@ -1,5 +1,11 @@
 # Installing and Running harmonic
 ```
+conda create -n rasti python=3.12
+conda activate rasti
+```
+or
+
+```
 conda create -n harmonic python=3.12
 conda activate harmonic
 pip install harmonic
